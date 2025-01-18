@@ -48,3 +48,46 @@ Per eseguire l'applicazione, è necessario avere:
 Puoi clonare il repository usando Git:
 
 git clone https://github.com/Gabryx412-coder/Checker-Numeri-Primi.git
+
+
+Oppure scaricare il progetto come file zip e estrarlo.
+
+### 2. Compilare ed eseguire il programma
+
+- Apri il progetto con un IDE come **IntelliJ IDEA** o **Eclipse**.
+- Compila ed esegui il programma.
+
+### 3. Interazione con l'applicazione
+
+- **Inserisci un numero** nel campo di testo.
+- **Scegli un'operazione** dal menu a tendina.
+- **Premi "Esegui Operazione"** per vedere il risultato.
+
+## Tecnologie Utilizzate
+
+- **Java** (versione 8 o superiore)
+- **Swing** per la creazione dell'interfaccia grafica utente (GUI).
+- **Threading** e **ExecutorService** per gestire l'elaborazione asincrona e migliorare l'esperienza utente.
+- **JProgressBar** per visualizzare il progresso durante i calcoli.
+
+## Esempio di Esecuzione
+
+Supponiamo di voler verificare se il numero 7 è primo:
+
+1. Inserisci `7` nel campo di testo.
+2. Seleziona **"Verifica se è Primo"** dal menu a tendina.
+3. Clicca su **"Esegui Operazione"**.
+4. Il risultato mostrerà: `"7 è un numero primo."`
+
+## Contribuire
+
+Se vuoi contribuire al progetto, sentiti libero di fare un **fork** del repository, aggiungere funzionalità, risolvere bug e inviare una **pull request**.
+
+## Licenza
+
+Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
+
+---
+
+Buon divertimento con l'applicazione! Se hai domande o suggerimenti, non esitare a creare una **pull request** o un **issue**.
+
