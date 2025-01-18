@@ -83,9 +83,6 @@ Supponiamo di voler verificare se il numero 7 è primo:
 
 Se vuoi contribuire al progetto, sentiti libero di fare un **fork** del repository, aggiungere funzionalità, risolvere bug e inviare una **pull request**.
 
-## Licenza
-
-Questo progetto è distribuito sotto la licenza MIT. Vedi il file [LICENSE](LICENSE) per ulteriori dettagli.
 
 ---
 
